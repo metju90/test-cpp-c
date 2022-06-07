@@ -57,7 +57,7 @@ typedef  unsigned char  Bool;
 #define False   ((Bool)0)
 
 
-#define BZ_MAX_FILENAME 2000 
+#define BZ_MAX_FILENAME 2000
 
 Char inFileName[BZ_MAX_FILENAME];
 Char outFileName[BZ_MAX_FILENAME];
